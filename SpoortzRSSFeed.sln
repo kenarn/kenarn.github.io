@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpoortzRSSFeed", "SpoortzRSSFeed\SpoortzRSSFeed.csproj", "{FDB3B2E8-E61A-4083-AF76-55B05DD0FA5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB3B2E8-E61A-4083-AF76-55B05DD0FA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB3B2E8-E61A-4083-AF76-55B05DD0FA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB3B2E8-E61A-4083-AF76-55B05DD0FA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB3B2E8-E61A-4083-AF76-55B05DD0FA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {389DC241-CB83-4B6A-AB40-D8F4BC944DD6}
+	EndGlobalSection
+EndGlobal
